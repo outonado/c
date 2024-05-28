@@ -1,2 +1,3 @@
 # c
-C programming, i forgot everthing. lol
+
+Welcome to my C language's studying.
